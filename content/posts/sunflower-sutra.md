@@ -1,7 +1,9 @@
 ---
 date: 2019-08-08T22:42:09.000+00:00
 title: YEET
-author: Allen Ginsberg
+author: 'ya boi
+
+'
 hero_image: "/content/images/download-2-42.jpg"
 
 ---
